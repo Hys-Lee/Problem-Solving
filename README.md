@@ -1,2 +1,2 @@
 # Problem-Solving
-for coding test. with Python
+for coding test with Python

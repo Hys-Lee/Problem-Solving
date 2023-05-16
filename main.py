@@ -45,22 +45,6 @@
 #   map.add(int(sys.stdin.readline())%42)
 # print(len(map))
 
-# 세미나장님이 갖고오신 문제 1   : 배열이 주어질 때, 연속된 같은 수의 길이의 최댓값 구하기
-#-> 극단의 케이스(인풋이 1개나 0개나 맥스 등등의 경우, 맨 마지막 맨 처음 주의) 꼭 확인해보자.
-arr = [3, 3, 2, 1, 1, 1, 1, 4, 4, 4, 4, 4, 1, 1, 1, 1, 1, 1, 1, 1]
-maxlenArr = []
-maxlen = 1
-# for i in range(len(arr) - 1):
-for i in range(len(arr)):
-  if i + 1 >= len(arr):
-    maxlenArr.append(maxlen)
-    break
-  if arr[i] == arr[i + 1]:
-    maxlen += 1
-  else:
-    maxlenArr.append(maxlen)
-    maxlen = 1  # 초기화
-print(max(maxlenArr))
 
 # 세미나장님이 갖고오신 문제 2 : 배열이 주어질 때, 연속된 같은 수를 하나로 합친 배열을 만들기.
 # arr = [3, 3, 2, 1, 1, 1, 1, 4, 4, 4, 4, 4, 1, 1, 1]
