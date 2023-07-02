@@ -8,6 +8,7 @@
 # import BinarySearch_2
 # import BinarySearch_3
 # import Dynamic_Programming_2
+import Shortest_Path_2
 
 ###### 알고리즘문풀 세미나 연습
 #ㄴ> colab으로 하려고 했는데, colab은 readline이 안된데.
@@ -44,7 +45,6 @@
 # for i in range(10):
 #   map.add(int(sys.stdin.readline())%42)
 # print(len(map))
-
 
 # 세미나장님이 갖고오신 문제 2 : 배열이 주어질 때, 연속된 같은 수를 하나로 합친 배열을 만들기.
 # arr = [3, 3, 2, 1, 1, 1, 1, 4, 4, 4, 4, 4, 1, 1, 1]
