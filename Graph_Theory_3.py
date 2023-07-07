@@ -72,3 +72,4 @@ for edge in edges:  # 가장 비싼건 자를거니.
 print(result_cost - last)
 
 # 시간 복잡도 면에서 sort를 쓰든 heapq를 쓰든 차이는 없는 것 같음. 여기선 둘 다 ElogE 인 듯
+#
