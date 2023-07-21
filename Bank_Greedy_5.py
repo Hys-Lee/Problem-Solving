@@ -45,6 +45,7 @@ for i in range(n):
 result=0
 
 
-for i in range(1,m): # 맨 마지막 제외.
+for i in range(1,m): # 맨 
+  마지막 제외.
   result+=mass[i]*sum(mass[i+1:])
 print(result)
