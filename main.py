@@ -18,7 +18,8 @@
 # import Bank_Greedy_3
 # import Bank_Greedy_4
 # import Bank_Greedy_5
-import Bank_Greedy_6
+# import Bank_Greedy_6
+import acmicpc_2839
 #################
 #################
 #################
