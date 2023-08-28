@@ -29,7 +29,23 @@
 # import acmicpc_1789
 # import acmicpc_13305
 # import acmicpc_10162
-import acmicpc_1715
+# import acmicpc_1715
+## 2023-08-05
+# import acmicpc_10610
+## 2023-08-06
+# import acmicpc_16953
+## 2023-08-07 다시 풀어야할 거
+# import acmicpc_1946
+## 2023-08-08
+# import acmicpc_2720
+# import acmicpc_1339
+## 2023-08-14
+# import acmicpc_1202
+## 2023-08-25
+# import Bank_Materialization_7
+# import Bank_Materialization_8
+## 2023-08-28
+# Bank_09_Materialization(programmers에서)
 #################
 #################
 #################
