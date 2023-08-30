@@ -1,5 +1,84 @@
-이거만 한 3시간은 한 것 같은데 개 박살남 
+###### 해결 코드.
+######     => lock에 좌상단에 key를 딱 붙였을 때부터 생각해서 틀림.
+######     lock의[0][0]만 key랑 겹치는 경우부터 생각했어야 함.
+######         예외 케이스 생각할 때, "반대방향" 도 생각해보자.
+##### 애초에 설계할 때도 모든 케이스 고려되는지도 더 생각해보자.
 
+def make_new_lock(original):
+    # lock복제
+    new_lock = [[0 for _ in range(len(original))] for _ in range(len(original))]
+    for i in range(len(original)):
+        for j in range(len(original)):
+            new_lock[i][j] = original[i][j]
+    return new_lock
+
+def check_lock(lock):# lock체크해서 0이 남아있거나 -1이 있다면 fail, 2가 하나도 없어도 fail.
+    # 즉, 0,-1이 하나라도 있다면 fail, 2가 하나라도 없다면 fail  -> 2없이 이미 lock에 1로만 있어도 true라는데?
+    found_zero = False
+    found_minus=False
+    # found_two = False
+    for i in range(len(lock)):
+        for j in range(len(lock)):
+            if lock[i][j]==0:
+                found_zero = True
+            elif lock[i][j] == -1:
+                found_minus=True
+
+    
+    if not found_zero and not found_minus: 
+        return True
+    else:
+        return False
+
+def matching_lock_key(key, lock):
+    #// 스핀도 잘 못 됐음. 바로 직전걸 또 돌렸어야 했는데
+    keys_spin=[key]
+    for k in range(3):
+        new_key=[[0 for _ in range(len(key))] for _ in range(len(key))]
+        for i in range(len(key)):
+            for j in range(len(key[0])):
+                new_key[j][len(key)-1-i] = keys_spin[-1][i][j]
+        keys_spin.append(new_key)
+    # print(keys_spin)
+    
+    
+    for i in range(-1*len(key)+1,len(lock)): ## 겹치기 시작하는 부분을 lock[0][0]부터라는 고정관념이 있었음.(key전체가 lock들어가는..)
+        for j in range(-1*len(key)+1,len(lock)): ## key일부만 lock에 겹치게, lock[0][0]만 겹치는 것을 시작으로 하는 것!
+            # 4개 keys마다
+            for k in range(4):
+                ## key를 new_lock과 결합해보기  
+                new_lock = make_new_lock(lock)
+                for y in range(len(key)):
+                    for x in range(len(key)):
+                        # key의 위치가 lock에 존재할 때
+                        if 0<=i+y<len(lock) and 0<=j+x<len(lock):
+                            # => 제대로 결합->2, 돌기끼리->-1.
+                            if new_lock[i+y][j+x]==0 and keys_spin[k][y][x]==1:
+                                new_lock[i+y][j+x] = 2
+                            elif new_lock[i+y][j+x]==1 and keys_spin[k][y][x]==1:
+                                new_lock[i+y][j+x] = -1
+                            
+                        
+                
+                # lock체크해서 0이 남아있거나 -1이 있다면 fail
+                if check_lock(new_lock):
+                    return True
+    return False
+
+
+def solution(key, lock):
+
+    
+    
+
+    # matching point 마다  => lock[i][j]가 매칭포인트
+    answer = matching_lock_key(key, lock)
+    
+                
+
+    return answer
+
+###### 이전 기록들...
 # # # 키가 자물쇠 밖으로 삐져나와도 상관 없고, 그냥 모든 홈에 맞추기만 하면 되는 듯.
 # # # 돌리는 것도 상관 없고. 이동도 괜찮고. 좌우 반전은 안 되겠찌.
 
@@ -209,3 +288,6 @@
 #     if sum(result)>0:
 #         answer = True
 #     return answer
+
+
+
