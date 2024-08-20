@@ -8,6 +8,7 @@ for coding test with Python
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hys-Lee/Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Hys-Lee/Problem-Solving/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -20,4 +21,12 @@ for coding test with Python
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hys-Lee/Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Hys-Lee/Problem-Solving/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Hys-Lee/Problem-Solving/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
