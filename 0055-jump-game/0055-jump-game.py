@@ -26,10 +26,10 @@ class Solution:
                     # print("이번 0은 넘길 수 있음. i, nums[i], zidxs",i,nums[i], zidxs )
                     zidxs.pop()
                 else:
-                    if zidxs[-1]==len(nums)-1 and nums[i]>0:
-                        ## test
-                        print("마지막 idx에 간신히 도달")
-                        zidxs.pop()
+                    # if zidxs[-1]==len(nums)-1 and nums[i]>0:
+                    #     ## test
+                    #     print("마지막 idx에 간신히 도달")
+                    #     zidxs.pop()
                     ## test
                     # print("이번 0은 못 넘김")
                     break
