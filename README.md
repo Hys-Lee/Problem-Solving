@@ -10,6 +10,7 @@ for coding test with Python
 | [0045-jump-game-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Hys-Lee/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Hys-Lee/Problem-Solving/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Hys-Lee/Problem-Solving/tree/master/0056-merge-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,4 +33,8 @@ for coding test with Python
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Hys-Lee/Problem-Solving/tree/master/0054-spiral-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Hys-Lee/Problem-Solving/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
