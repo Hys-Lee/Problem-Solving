@@ -16,6 +16,7 @@ for coding test with Python
 | ------- |
 | [0045-jump-game-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hys-Lee/Problem-Solving/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Hys-Lee/Problem-Solving/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -37,4 +38,12 @@ for coding test with Python
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Hys-Lee/Problem-Solving/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Hys-Lee/Problem-Solving/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Hys-Lee/Problem-Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
