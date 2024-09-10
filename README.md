@@ -11,12 +11,14 @@ for coding test with Python
 | [0054-spiral-matrix](https://github.com/Hys-Lee/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Hys-Lee/Problem-Solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Hys-Lee/Problem-Solving/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Hys-Lee/Problem-Solving/tree/master/0064-minimum-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hys-Lee/Problem-Solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Hys-Lee/Problem-Solving/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Hys-Lee/Problem-Solving/tree/master/0064-minimum-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -30,6 +32,7 @@ for coding test with Python
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Hys-Lee/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Hys-Lee/Problem-Solving/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
