@@ -14,6 +14,7 @@ for coding test with Python
 | [0064-minimum-path-sum](https://github.com/Hys-Lee/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Hys-Lee/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hys-Lee/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Hys-Lee/Problem-Solving/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ for coding test with Python
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Hys-Lee/Problem-Solving/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Hys-Lee/Problem-Solving/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -58,4 +60,8 @@ for coding test with Python
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Hys-Lee/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hys-Lee/Problem-Solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
