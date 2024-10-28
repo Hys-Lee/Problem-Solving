@@ -60,6 +60,7 @@ for coding test with Python
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Hys-Lee/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/Hys-Lee/Problem-Solving/tree/master/0138-copy-list-with-random-pointer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ for coding test with Python
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hys-Lee/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Hys-Lee/Problem-Solving/tree/master/0138-copy-list-with-random-pointer) |
 ## Stack
 |  |
 | ------- |
