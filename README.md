@@ -15,6 +15,7 @@ for coding test with Python
 | [0073-set-matrix-zeroes](https://github.com/Hys-Lee/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hys-Lee/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Hys-Lee/Problem-Solving/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@ for coding test with Python
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Hys-Lee/Problem-Solving/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Tree
 |  |
 | ------- |
