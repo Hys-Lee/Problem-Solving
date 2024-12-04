@@ -16,6 +16,7 @@ for coding test with Python
 | [0074-search-a-2d-matrix](https://github.com/Hys-Lee/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Hys-Lee/Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/Hys-Lee/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ for coding test with Python
 | [0055-jump-game](https://github.com/Hys-Lee/Problem-Solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Hys-Lee/Problem-Solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Hys-Lee/Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Hys-Lee/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
