@@ -17,6 +17,7 @@ for coding test with Python
 | [0075-sort-colors](https://github.com/Hys-Lee/Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Hys-Lee/Problem-Solving/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hys-Lee/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ for coding test with Python
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hys-Lee/Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Hys-Lee/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hys-Lee/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Matrix
 |  |
 | ------- |
