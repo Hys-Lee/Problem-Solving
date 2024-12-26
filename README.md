@@ -18,6 +18,7 @@ for coding test with Python
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Hys-Lee/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hys-Lee/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/Hys-Lee/Problem-Solving/tree/master/0198-house-robber) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ for coding test with Python
 | [0062-unique-paths](https://github.com/Hys-Lee/Problem-Solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Hys-Lee/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Hys-Lee/Problem-Solving/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Hys-Lee/Problem-Solving/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
