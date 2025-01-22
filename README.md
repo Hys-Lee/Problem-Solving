@@ -20,6 +20,7 @@ for coding test with Python
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hys-Lee/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Hys-Lee/Problem-Solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Hys-Lee/Problem-Solving/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ for coding test with Python
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hys-Lee/Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Hys-Lee/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hys-Lee/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -48,6 +50,7 @@ for coding test with Python
 | [0073-set-matrix-zeroes](https://github.com/Hys-Lee/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hys-Lee/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Hys-Lee/Problem-Solving/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -122,4 +125,8 @@ for coding test with Python
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Hys-Lee/Problem-Solving/tree/master/0207-course-schedule) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
