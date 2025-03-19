@@ -22,6 +22,7 @@ for coding test with Python
 | [0200-number-of-islands](https://github.com/Hys-Lee/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/Hys-Lee/Problem-Solving/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Hys-Lee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ for coding test with Python
 | ------- |
 | [0056-merge-intervals](https://github.com/Hys-Lee/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Hys-Lee/Problem-Solving/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/Hys-Lee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +77,7 @@ for coding test with Python
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Hys-Lee/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hys-Lee/Problem-Solving/tree/master/0138-copy-list-with-random-pointer) |
+| [0347-top-k-frequent-elements](https://github.com/Hys-Lee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,4 +135,21 @@ for coding test with Python
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hys-Lee/Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Hys-Lee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hys-Lee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hys-Lee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hys-Lee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hys-Lee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
